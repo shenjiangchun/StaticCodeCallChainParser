@@ -1,2 +1,2 @@
 # StaticCodeCallChainParser
- 132/1000  拼音 A static code repository parsing project that generates method call chains and tables to assist in analyzing dependencies and as input to the AI knowledge base. 
+A static code repository parsing project that generates method call chains and tables to assist in analyzing dependencies and as input to the AI knowledge base. Scan the uri in the project code repository and (Interface injection/beanmap obtaining bean injection/proxy) Obtains the method call chain. (Currently, automatic mapping rpc invoking and mq invoking internal methods cannot be performed.) to generate graph nodes and add them to the table.
